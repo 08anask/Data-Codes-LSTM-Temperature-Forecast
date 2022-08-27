@@ -1,2 +1,2 @@
-# Data-Codes-LSTM-IMDb
-Sentiment Analysis using LSTM to classify movies reviews on IMDb Datasets
+# Data-Codes-LSTM-ARIMA
+Temperature Prediction using Time Series Forecasting with ARIMA Model
